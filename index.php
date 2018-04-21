@@ -6,5 +6,7 @@
 </head>
 <body>
     <?php echo "hello world！" ?>
+    <h1>我是h1标签</h1>
+    <h2>我是h2标签</h2>
 </body>
 </html>
